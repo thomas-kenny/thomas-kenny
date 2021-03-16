@@ -5,7 +5,7 @@
 
 - 🔭 I recently finished working on [Illuminate](https://www.illuminate-app.tech/)
 
-- 📫 How to reach me **thomasarthurkenny@gmail.com**
+- 📫 You can reach me at **thomasarthurkenny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
